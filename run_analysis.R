@@ -46,3 +46,6 @@ finaldt <- dcast(meltdt, subjectID + activity~variable, mean)
 
 #write csv file of new dataset
 write.csv(finaldt, file = "finaldata.csv") 
+
+#write txt file of new dataset
+write.table(finaldt, "finaldata.txt", row.names = FALSE, quote = FALSE)
