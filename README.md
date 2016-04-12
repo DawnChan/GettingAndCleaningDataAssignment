@@ -8,11 +8,11 @@ This documents my work for the Getting and Cleaning Data Course Project.
 The goal of this project is to demonstrate how to collect, collate and tidy data into a useable data frame to allow further analyses.
 
 ##Files Included 
-run_analysis.R
-readme.md
-codebook.md
-tidydata.csv
-
+run_analysis.R  
+readme.md  
+codebook.md  
+tidydata.csv  
+ 
 ##Dataset
 
 Represents data collected from the accelerometers from the Samsung Galaxy S smartphone. Full description available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
@@ -22,7 +22,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##Script functions
 
-file = run_analysis.R
+Script for the assignment analysis = run_analysis.R
 
 	1	Merges the training and the test sets to create one data set.
 	    
