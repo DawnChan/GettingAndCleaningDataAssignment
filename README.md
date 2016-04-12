@@ -46,4 +46,5 @@ Script functions
 Please install data.table package via install.packages(data.table) prior to running run_analysis.R
 
 Codebook
+
 The attached codebook.md will explain the transformations and variables used. 
