@@ -18,8 +18,8 @@ Transformation of data
 
 Labels
 
-subjectID = subject ID number  
-    -1:30
+subjectID = subject ID number  1:30
+
 activity = activity during time of measurement 
     -walking
     -walking upstairs
@@ -27,6 +27,7 @@ activity = activity during time of measurement
     -sitting
     -standing
     -laying
+
 measurements recorded = 
 tBodyAcc-mean-X
 tBodyAcc-mean-Y
