@@ -1,6 +1,6 @@
-Codebook
+#Codebook
 
-Transformation of data
+##Transformation of data
 
 1. unzip dataset into working directory
 2. install required packages - data.table
@@ -16,11 +16,13 @@ Transformation of data
 11. new dataset created 
 12. write csv file of new dataset using write.csv()
 
-Labels
+##Labels
 
-subjectID = subject ID number  1:30
+###subjectID 
+subject ID number 1:30
 
-activity = activity during time of measurement 
+###activity
+activity during time of measurement 
     -walking
     -walking upstairs
     -walking downstairs
@@ -28,7 +30,10 @@ activity = activity during time of measurement
     -standing
     -laying
 
-measurements recorded = 
+###measurements recorded
+
+XYZ correlates to the X, Y and X axes respectively
+
 tBodyAcc-mean-X
 tBodyAcc-mean-Y
 tBodyAcc-mean-Z
