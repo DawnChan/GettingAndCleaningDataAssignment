@@ -1,6 +1,9 @@
 install.packages(data.table)
+library (data.table)
 
-
+#getting files
+download.file(URL, destfile = "UCIHAR.zip", method = "curl")
+unzip("UCIHAR.zip")
 
 # loading all files
 subjecttest <- read.table("~/UCI HAR Dataset/test/subject_test.txt")
