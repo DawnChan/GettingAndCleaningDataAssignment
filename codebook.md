@@ -25,12 +25,12 @@ subject ID number 1:30
 
 ###activity
 activity during time of measurement 
-    -walking
-    -walking upstairs
-    -walking downstairs
-    -sitting
-    -standing
-    -laying
+    -walking  
+    -walking upstairs  
+    -walking downstairs  
+    -sitting  
+    -standing  
+    -laying  
 
 ###measurements recorded
 
